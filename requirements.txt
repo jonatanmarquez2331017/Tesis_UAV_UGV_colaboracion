@@ -1,0 +1,23 @@
+# Núcleo de deep learning y visión
+torch>=2.2
+torchvision>=0.17
+ultralytics>=8.2
+
+# Procesamiento científico
+numpy>=1.24
+pandas>=2.0
+pillow>=10.0
+tqdm>=4.66
+pyyaml>=6.0
+matplotlib>=3.8
+
+# OpenCV con módulo ArUco (usa 'contrib')
+opencv-contrib-python>=4.8
+
+# Roboflow (si descargas el dataset desde la API)
+roboflow>=1.1.0
+
+# UAV / MAVLink
+dronekit>=2.9.2
+pymavlink>=2.4.41
+pynput>=1.7.6
